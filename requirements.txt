@@ -311,7 +311,7 @@ twilio==6.26.3
 tzlocal==2.1
 ujson==1.35
 unicodecsv==0.14.1
-urllib3==1.25.8
+urllib3==1.26.5
 wasabi==0.7.0
 watchdog==0.10.2
 wcwidth==0.1.8
