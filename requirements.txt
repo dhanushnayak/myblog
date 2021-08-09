@@ -230,7 +230,7 @@ python-socketio==4.5.1
 python-telegram-bot==12.8
 pytz==2019.3
 PyWavelets==1.1.1
-pywin32==227
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3
