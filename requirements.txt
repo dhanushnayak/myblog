@@ -309,7 +309,7 @@ tqdm==4.42.1
 traitlets==4.3.3
 twilio==6.26.3
 tzlocal==2.1
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 urllib3==1.25.8
 wasabi==0.7.0
